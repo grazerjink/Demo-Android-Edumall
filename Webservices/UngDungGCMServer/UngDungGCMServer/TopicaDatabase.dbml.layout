@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TopicaDatabase">
+  <DataContextMoniker Name="/TopicaDatabaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6d05caf1-8bec-4a9d-9ce2-913c3399a608" absoluteBounds="1.125, 1.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/TopicaDatabaseDataContext/GCM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8e5ebaa2-be8a-495b-ab2c-a1ba619cf30e" absoluteBounds="1.1400000000000001, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

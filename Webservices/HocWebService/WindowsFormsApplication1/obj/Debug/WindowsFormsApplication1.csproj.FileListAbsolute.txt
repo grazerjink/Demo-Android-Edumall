@@ -1,0 +1,11 @@
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DatPhong.resources
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.CodeAnalysisLog.xml
+E:\ProjectCSharp\Webservices\HocWebService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.lastcodeanalysissucceeded
